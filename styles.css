@@ -1,0 +1,30 @@
+
+header {
+    padding: 1.875em 0;
+}
+header, main, footer {
+    background-color:#6495ed;
+    font-size: 1.6em;
+}
+p   {
+    text-align:justify; 
+}
+#internal  {
+        display: block;
+        margin: auto;
+}
+footer {
+    text-align: center;
+    padding: 3em;
+}
+body {
+    width: 100%;
+    max-width: 1024px;
+    margin:auto;
+    background-color: #87cefa;
+    font-size: 62.5%;
+}
+
+html {
+    font-family: sans-serif;
+} 
